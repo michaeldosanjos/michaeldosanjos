@@ -15,6 +15,6 @@
   ##
  
 <div> 
-  <a href = "mailto:michael_dosanjos@hotmail.com"><img src="https://img.shields.io/badge/e-mail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michaelanjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:michael_dosanjos@hotmail.com"><img src="https://icones.pro/wp-content/uploads/2022/04/icone-outlook-bleu.png" .align-center width="50" height="50" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michaelanjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" .align-center width="140" height="140" target="_blank"></a> 
 </div>
